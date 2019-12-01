@@ -1,0 +1,27 @@
+django-1.11
+python-3.6.8
+djangorestframework-3.9.4 
+numpy-1.16.5 
+pandas-0.24.2 
+python-dateutil-2.8.1 
+pytz-2019.3 
+rest-pandas-1.1.0
+openpyxl-2.6.4
+
+
+
+Users:
+
+username- anoop4u777(superuser)
+password- admin12345
+
+username- anjali4u777
+password- admin12345
+
+
+
+urls:
+	- localhost/employeetask/api/ 		-list
+	- localhost/employeetask/api/(id) 	-detail
+	- localhost/employeetask/api/emp	-json render
+	- localhost/employeetask/api/excel	-download user task details
